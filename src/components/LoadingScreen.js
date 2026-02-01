@@ -68,7 +68,7 @@ function LoadingScreen() {
         </div>
 
         <div className="loading-footer">
-          <p>© 2024 Prakash Amusements | EST. 2000</p>
+          <p>© {new Date().getFullYear()} Prakash Amusements | EST. 2002</p>
         </div>
       </div>
 
