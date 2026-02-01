@@ -3,7 +3,15 @@ import { Link } from "react-scroll";
 function Header() {
   return (
     <header className="hero" id="hero">
-      <video src="./vdo-2.mp4" loop autoPlay muted className="hero-video"></video>
+      <video
+        src="./vdo-1.mp4"
+        loop
+        autoPlay
+        muted
+        playsInline
+        preload="auto"
+        className="hero-video"
+      ></video>
       <div className="hero-overlay" style={{ background: 'linear-gradient(rgba(1, 6, 6, 0.2), rgba(1, 6, 6, 0.5))' }}></div>
 
       <div className="hero-content animate-up">
