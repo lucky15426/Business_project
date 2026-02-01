@@ -2,7 +2,7 @@
 
 A premium, interactive web application for **Prakash Amusements**, featuring a modern UI/UX design, ride bookings, and event management services.
 
-![Project Preview](companywebsitegif.gif)
+
 
 ## ✨ Features
 
@@ -74,4 +74,4 @@ This project is private and intended for Prakash Amusements.
 
 ---
 
-Built with ❤️ by [Your Name/Prakash Amusements Team]
+Built with ❤️ by [Lucky/Prakash Amusements Team]
