@@ -28,6 +28,18 @@ function Footer() {
             </ul>
           </div>
 
+          <div className="footer-col animate-up" style={{ animationDelay: '0.15s' }}>
+            <h4>Our Services</h4>
+            <ul className="footer-links">
+              <li><Link to="services" spy={true} smooth={true} duration={1000}>Birthday Parties</Link></li>
+              <li><Link to="services" spy={true} smooth={true} duration={1000}>Corporate Events</Link></li>
+              <li><Link to="services" spy={true} smooth={true} duration={1000}>Wedding Receptions</Link></li>
+              <li><Link to="services" spy={true} smooth={true} duration={1000}>Festival Events</Link></li>
+              <li><Link to="services" spy={true} smooth={true} duration={1000}>School Functions</Link></li>
+              <li><Link to="services" spy={true} smooth={true} duration={1000}>Private Parties</Link></li>
+            </ul>
+          </div>
+
           <div className="footer-col animate-up" style={{ animationDelay: '0.2s' }}>
             <h4>Contact Info</h4>
             <ul className="footer-links">
